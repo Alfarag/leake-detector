@@ -1,1 +1,1 @@
-# leake-detector
+# leak-detector
